@@ -1,5 +1,6 @@
 # covid-regression-analysis
 Project Date: September 2020 - December 2020
+
 Supervisor: Dr. Adela Lau
 
 This was a self-guided group project linear regression analysis between spread of covid cases and other variables as part of STAT1005: Foundations of Data Science course at the University of Hong Kong. We were in charge of researching our sources, finding and cleaning our own data, then setting up our own regression tests to run. 
